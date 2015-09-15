@@ -43,7 +43,7 @@
 * 機械学習
 	* [法曹界の反響室](http://www.reuters.com/investigates/special-report/scotus/): 機械学習による文書分類
 	* [GE第二四半期決算発表](http://news.yahoo.com/ge-2q-profit-climbs-13-percent-110903999--finance.html): ロボットによる原稿
-	* [子育て環境を周辺と比較](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html)
+	* [子育て環境を周辺と比較](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html): 地図の自動フォーカスとテキストの自動生成
 
 * 作品リスト
 	* [スペインMolofiej23](http://www.malofiejgraphics.com/wp-content/uploads/2015/03/M23_Awards-List_OK.pdf)
@@ -52,7 +52,7 @@
 	* [GENデータジャーナリズム賞2014](http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/2014-shortlist/)
 	* [NYT作品集2014](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html)
 
-### イベント
+### 組織・イベント
 
 * [全米調査報道記者編集者協会](http://www.ire.org/nicar/)
 * [欧州ジャーナリズムフェスティバル](http://www.journalismfestival.com)
