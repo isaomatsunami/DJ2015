@@ -97,7 +97,7 @@
 * [欧州ジャーナリズムフェスティバル](http://www.journalismfestival.com)
 * [オンラインニュース協会](http://journalists.org)
 
-
+![2015/9/25](http://isaomatsunami.appspot.com/log?referrer=DJ2015)
 
 
 
