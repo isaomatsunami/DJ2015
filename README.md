@@ -31,6 +31,9 @@
 * [アルプ・デュエズの上り坂](http://www.theguardian.com/sport/ng-interactive/2015/jul/23/tour-de-france-the-climb-of-alpe-dhuez-interactive)
 * [クロノス四重奏団](http://www.nytimes.com/interactive/2014/09/22/arts/music/kronos-quartet.html?ref=arts)
 
+#### 筆者について
+
+* [箱根で入山規制](http://www.tokyo-np.co.jp/hold/2015/hakone/hakone_t.html)
 
 
 # デジタルジャーナリズム事例集
