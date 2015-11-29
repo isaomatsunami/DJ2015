@@ -16,6 +16,8 @@ PGP(Pretty Good Privacy)という仕組みは、End to Endでセキュリティ�
 予め、[Gpg4win(Windowsの場合)](https://www.gpg4win.org/)か[GPGTools(Macの場合)](https://gpgtools.org/)をダウンロードして参加してください。
 オプションとして、メールに一体化して使いたい場合には、[Thunderbird](http://www.mozilla.jp/thunderbird/)をインストールし、アドオンで「Enigmail」を追加してください。
 
+**自分でインストールし、暗号メールが送れるようになるなら、参加する必要はありません。**以下のアドレスに試し送りをしていただければ、返事を送ります。
+
 ![fingerprint](images/fingerprint.png)
 
 ### NICAR16について
