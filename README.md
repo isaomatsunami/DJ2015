@@ -1,8 +1,45 @@
-## 参加する皆様へ
+# PGPインストール会について
+
+(このミニHands-onはCedric Sam氏講義の前座で、オプションです。Samの講義は18:20ごろ開始予定です)
+
+スノーデン事件以降、セキュリティに関して誰も信じられない世界になりました。メールはもともとセキュリティなどあってなきが如きの通信手段です。記者がセキュリティに無頓着であっても本人の勝手ですが、情報提供側はそうは考えないかもしれません。
+
+PGP(Pretty Good Privacy)という仕組みは、End to Endでセキュリティを実現する方法で、スノーデン事件でも、彼が記者と最初の接触をする際に使われました。その基本的な仕組みと使い方について説明します（30分程度）。当日資料を配布します。
+
+あなたが調査報道を担当していない場合でも、PGPを使う意味があります。社内で調査報道班だけがPGPを使っていたら、何が機密情報か、旗を振って攻撃場所を教えているようなものです。
+
+必要なもの
+* 個人使用のノートパソコン
+* (メール送受信可能な人同士で、その場で鍵を交換します。Portable Wifiなどをお持ちの方は協力してください。)
+* 鍵保存用のUSB（できれば）
+
+予め、[Gpg4win(Windowsの場合)](https://www.gpg4win.org/)か[GPGTools(Macの場合)](https://gpgtools.org/)をダウンロードして参加してください。
+オプションとして、メールに一体化して使いたい場合には、[Thunderbird](http://www.mozilla.jp/thunderbird/)をインストールし、アドオンで「Enigmail」を追加してください。
+
+![fingerprint](images/fingerprint.png)
+
+### NICAR16について
+
+日本記者クラブで紹介したNICAR(Computer-Assisted Reporting Conference)の[2016年会議](http://ire.org/conferences/nicar2016/)の日程が、3月10-13日デンバー開催と発表されました。
+会費は260ドルですが、IREの会員である必要があるので年会費70ドルも必要になります。この種の会議では、欧州のSchool of Journalism（無料）に次いで安価で、**もっとも実践的**です（つまり、管理職が視察に行くタイプの催しではありません）。明け方まで話が盛り上がる「祭典」なので、可能な限り、会場のホテルを使うことをお勧めします。
+
+内容は今年のものが参考になります。
+
+* [2015年のスケジュール](http://ire.org/conferences/nicar2015/schedule/)
+* [講義資料のリンク集](http://blog.chryswu.com/2015/02/20/nicar-2015-slides-links-tutorials/)
+
+英語のレベルは容赦ありませんが、技術が分かる人には理解できるでしょう。
+
+* [ライトニングトークの動画](http://ire.org/conferences/nicar2015/lightning-talks/)
+
+なお、11月2日には香港でHacks Hackers Hong KongがGoogle Hong Kongで開かれます。今回のテーマはGIS(電子地図情報システム)です。
+LCCを使えば大阪出張と費用は大差ありませんので、観光がてらNICARの雰囲気を味わうこともできます。
+
+### 参加する皆様へ
 
 できる限り、**高速回線と最新パソコン、音が聴ける環境**で、以下のリンクリストの５件について、自分で体験しておいてください。
 
-* [スノーフォール](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)
+* [スノーフォール(2012)](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)
 
 #### 書き出し部分の邦訳
 
@@ -16,7 +53,7 @@
 >あるいはよけ、あるいは飲み込みながら、体積を増していった。<br>
 > 　内部には人がいた。何人なのか、誰も知らない。
 
-* [ジョッキー](http://www.nytimes.com/projects/2013/the-jockey/#/?chapt=introduction)
+* [ジョッキー(2013)](http://www.nytimes.com/projects/2013/the-jockey/#/?chapt=introduction)
 
 #### 書き出し部分の邦訳
 
@@ -27,9 +64,9 @@
 >ベイズは青鹿毛の牝馬に乗った。馬は、そうすべきだと分かっているように、ゲートに収まった。顔を上げ、足も据わった。<br>
 > 　ゲートが開いた。アメリカ史上最多勝の騎手、ラッセル・ベイズは出来る限りの声で「ヤー」と叫んだ。
 
-* [中国巨大洞窟](http://www.nationalgeographic.com/china-caves/supercaves/)
-* [アルプ・デュエズの上り坂](http://www.theguardian.com/sport/ng-interactive/2015/jul/23/tour-de-france-the-climb-of-alpe-dhuez-interactive)
-* [クロノス四重奏団](http://www.nytimes.com/interactive/2014/09/22/arts/music/kronos-quartet.html?ref=arts)
+* [中国巨大洞窟(2014)](http://www.nationalgeographic.com/china-caves/supercaves/)
+* [アルプ・デュエズの上り坂(2015)](http://www.theguardian.com/sport/ng-interactive/2015/jul/23/tour-de-france-the-climb-of-alpe-dhuez-interactive)
+* [クロノス四重奏団(2014)](http://www.nytimes.com/interactive/2014/09/22/arts/music/kronos-quartet.html?ref=arts)
 
 #### 筆者について
 
