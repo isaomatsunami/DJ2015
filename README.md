@@ -13,12 +13,14 @@ PGP(Pretty Good Privacy)という仕組みは、End to Endでセキュリティ�
 * (メール送受信可能な人同士で、その場で鍵を交換します。Portable Wifiなどをお持ちの方は協力してください。)
 * 鍵保存用のUSB（できれば）
 
-予め、[Gpg4win(Windowsの場合)](https://www.gpg4win.org/)か[GPG Suite(Macの場合)](https://gpgtools.org/)をダウンロードして参加してください。
+予め、[Gpg4win(Windowsの場合)](https://www.gpg4win.org/)か[GPG Suite(Macの場合)](https://gpgtools.org/)をダウンロードして参加してください。クリックしてインストールするところから始めます。
 オプションとして、メールに一体化して使いたい場合には、[Thunderbird](http://www.mozilla.jp/thunderbird/)をインストールし、アドオンで「Enigmail」を追加してください。
 
-**自分でインストールし、暗号メールが送れるようになるなら、参加する必要はありません。**以下のアドレスに試し送りをしていただければ、返事を送ります。
+**自分でインストールし、暗号メールが送れるようになった場合、参加する必要はありません。**以下のアドレスに試し送りをしていただければ、返事を送ります。
 
 ![fingerprint](images/fingerprint.png)
+
+次にマスターしなければならないことは、SecureDropやGlobaLeaksなどの匿名情報提供サイトの構築ですが、サーバーの構築などが必要なので、組織として取り組む必要があります。
 
 ### NICAR16について
 
