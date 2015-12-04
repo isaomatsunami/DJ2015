@@ -21,18 +21,19 @@ PGP(Pretty Good Privacy)という仕組みは、End to Endでセキュリティ�
 ![fingerprint](images/fingerprint.png)
 
 ####注意
-	社内ネットワークから公開キーサーバーに繋がらない場合、ネットワーク責任者に「Outboundの11371番ポートを開けてください」と頼んでください。
+	社内ネットワークから公開キーサーバーに繋がらない場合、ネットワーク責任者に
+	「Outboundの11371番ポートを開けてください」と頼んでください。
 
 ####次の課題
 
-*ChatSecureなどのインスタントメッセージの暗号化
-*SecureDropやGlobaLeaksなどの匿名情報提供サイトの構築
+* ChatSecureなどのインスタントメッセージの暗号化
+* SecureDropやGlobaLeaksなどの匿名情報提供サイトの構築
 
 	サーバーの構築などが必要なので、組織として取り組む必要があります。
 
-	*[内部告発.jp	](https://whistleblowing.jp)
-	*[英ガーディアン](https://securedrop.theguardian.com)
-	*[加グローブアンドメール](https://sec.theglobeandmail.com/securedrop/)
+	* [内部告発.jp](https://whistleblowing.jp)
+	* [英ガーディアン](https://securedrop.theguardian.com)
+	* [加グローブアンドメール](https://sec.theglobeandmail.com/securedrop/)
 
 ---
 
