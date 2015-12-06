@@ -16,7 +16,11 @@ PGP(Pretty Good Privacy)という仕組みは、End to Endでセキュリティ�
 予め、[Gpg4win(Windowsの場合)](https://www.gpg4win.org/)か[GPG Suite(Macの場合)](https://gpgtools.org/)をダウンロードして参加してください。クリックしてインストールするところから始めます。
 オプションとして、メールに一体化して使いたい場合には、[Thunderbird](http://www.mozilla.jp/thunderbird/)をインストールし、アドオンで「Enigmail」を追加してください。
 
-**自分でインストールし、暗号メールが送れるようになった場合、参加する必要はありません。**以下のアドレスに試し送りをしていただければ、返答します。
+**自分でインストールし、暗号メールが送れるようになった場合、参加する必要はありません。(Key LengthはRSAも+RSAも4096bit)**
+
+![Gpg4winの場合](images/Kleopatra_setup.png)
+
+以下のアドレスに試し送りをしていただければ、返答します。
 
 ![fingerprint](images/fingerprint.png)
 
