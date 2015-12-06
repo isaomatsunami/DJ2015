@@ -18,7 +18,7 @@ PGP(Pretty Good Privacy)という仕組みは、End to Endでセキュリティ�
 
 **自分でインストールし、暗号メールが送れるようになった場合、参加する必要はありません。(Key LengthはRSAも+RSAも4096bit)**
 
-![Gpg4winの場合](images/Kleopatra_setup.png)
+![Gpg4winの場合](images/Kleopatra_setup.jpg)
 
 以下のアドレスに試し送りをしていただければ、返答します。
 
