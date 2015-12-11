@@ -15,6 +15,7 @@ PGP(Pretty Good Privacy)という仕組みは、End to Endでセキュリティ�
 
 予め、[Gpg4win(Windowsの場合)](https://www.gpg4win.org/)か[GPG Suite(Macの場合)](https://gpgtools.org/)をダウンロードして参加してください。クリックしてインストールするところから始めます。
 オプションとして、メールに一体化して使いたい場合には、[Thunderbird](http://www.mozilla.jp/thunderbird/)をインストールし、アドオンで「Enigmail」を追加してください。
+(アカウントの設定を済ませ、メールが受信できるようにしてください。その場でメールの練習をします)
 
 **自分でインストールし、暗号メールが送れるようになった場合、参加する必要はありません。(Key LengthはRSAも+RSAも4096bit)**
 
